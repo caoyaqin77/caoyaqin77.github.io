@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Marketwatch
+  - title: write
     url: marketwatch
     desc: A Windows app for notifying you of new deals on local markets.
   - title: My First Python Script
