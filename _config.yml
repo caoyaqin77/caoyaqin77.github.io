@@ -1,6 +1,6 @@
-title: Ghalib Alrawi Portfolio/Blog
-author: Ghalib Alrawi
-url: https://ghalibalrawi.github.io/ # root address of the site
+title: Cao Yaqin Blog
+author: Cao Yaqin
+url: https://caoyaqin77.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   I've been programming since I was 12 and always had a passion for technology and computers. This is a blog and portfolio where I showcase my software development projects and anything related to computers in general.
   I mainly use C#/.NET Core for most of my projects, but I do occasionally use other technologies and frameworks.
@@ -12,7 +12,7 @@ favicon: "./logo.png" # relative path to site's favicon
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "auto" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
